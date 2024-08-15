@@ -1,1 +1,1 @@
-# .github
+# SouthAki organizations
