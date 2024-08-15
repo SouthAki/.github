@@ -10,3 +10,14 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+![HeaderImages](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<p align="center">
+ <img width="150px" src=https://github.com/xieleihan/QingluanSearch-AndroidDev/raw/main/peacock_flat.png" align="center" alt="Avator" />
+ <h2 align="center">
+   <a>
+     SouthAki-EdgeGlobal ©2021
+   </a>
+ </h2>
+ <p align="center"> 古老传说中有那么一个时代，蒸汽机驱动的机器在天空自由翱翔。 </p>
+</p>
