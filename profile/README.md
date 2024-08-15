@@ -13,7 +13,7 @@
 
 ![HeaderImages](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <p align="center">
- <img width="150px" src=https://github.com/xieleihan/QingluanSearch-AndroidDev/raw/main/peacock_flat.png" align="center" alt="Avator" />
+ <img width="150px" src="https://github.com/xieleihan/QingluanSearch-AndroidDev/raw/main/peacock_flat.png" align="center" alt="Avator" />
  <h2 align="center">
    <a>
      SouthAki-EdgeGlobal ©2021
