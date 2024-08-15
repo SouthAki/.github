@@ -20,6 +20,7 @@
  </h2>
  <p align="center"> 古老传说中有那么一个时代，蒸汽机驱动的机器在天空自由翱翔。 </p>
 </p>
+<hr />
 <div align="center">一些常见问题
     <p>- 🙋‍♀️ A short introduction - what is your organization all about?</p>
     <p>- 🔭 Let me think, my organization is dedicated to promoting the prosperity of the open source community,
