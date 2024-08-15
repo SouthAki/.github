@@ -22,14 +22,15 @@
 </p>
 <div align="center">一些常见问题
     <p>- 🙋‍♀️ A short introduction - what is your organization all about?</p>
-    <p>- 🔭 Let me think, my organization is dedicated to promoting the prosperity of the open source community, and we have always believed that all code should be free.</p>
+    <p>- 🔭 Let me think, my organization is dedicated to promoting the prosperity of the open source community,
+     and we have always believed that all code should be free.</p>
     <p>- 🌱 Contribution guidelines - how can the community get involved?</p>
     <p>- 🔭 If necessary, please contact the administrator.</p>
 </div>
 <div align="left">
   <h3>Used Languages :</h3>
 </div>
-<div align="center>
+<div align="center">
     <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
     <img width="6" />
     <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
