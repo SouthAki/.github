@@ -15,7 +15,7 @@
  <img width="150px" src="https://github.com/xieleihan/QingluanSearch-AndroidDev/raw/main/peacock_flat.png" align="center" alt="Avator" />
  <h2 align="center">
    <a>
-     SouthAki-EdgeGlobal ©2021
+     SouthAki_EdgeGlobal ©2021
    </a>
  </h2>
  <p align="center"> 古老传说中有那么一个时代，蒸汽机驱动的机器在天空自由翱翔。 </p>
