@@ -27,7 +27,7 @@
      and we have always believed that all code should be free.</p>
     <p>- 🌱 Contribution guidelines - how can the community get involved?</p>
     <p>- 🔭 If necessary, please contact the administrator.</p>
-    <p>- 🖥️ 官网:<a href="https://freecode.southaki.cn" target="_self">点击访问</a>💾</p>
+    <p>- 🖥️ 官网:<a href="https://freecode.southaki.cn" target="_self">点击访问</a></p>
     <p>- 💾 内容分发网络:<a href="https://fastly.jsdelivr.net/gh/southaki/contentDeliveryNetwork@v0.0.2/" target="_self">点击访问</a></p>
 </div>
 <div align="left">
